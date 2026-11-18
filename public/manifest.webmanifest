@@ -1,0 +1,14 @@
+{
+  "name": "Zenith",
+  "short_name": "Zenith",
+  "description": "A 2048 merge puzzle where every tile is a star, with a soundtrack that grows as you play.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07081c",
+  "theme_color": "#07081c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
